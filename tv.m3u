@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Kan11.il" tvg-name="KAN 11" group-title="Israel",KAN 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Keshet12.il" tvg-name="Keshet 12" group-title="Israel",Keshet 12
+https://mako-streaming.akamaized.net/live/ch12/ch12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Reshet13.il" tvg-name="Reshet 13" group-title="Israel",Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+#EXTINF:-1 tvg-id="KanHinuhit.il" tvg-name="Hinuhit" group-title="Israel",Hinuhit
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel 9" group-title="Israel",Channel 9
+https://cdn.cybergame.tv/public/9channel/index.m3u8
+
+#EXTINF:-1 tvg-id="RelevantTV.il" tvg-name="Relevant TV" group-title="Israel",Relevant TV
+https://5d12bc59c4748.streamlock.net/relevanttv/relevanttv/playlist.m3u8
