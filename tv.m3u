@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="KAN 11",KAN 11
+#EXTINF:-1 tvg-id="Kan11.il" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kan11.png" group-title="Israel",KAN 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Reshet 13",Reshet 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-
-#EXTINF:-1 tvg-name="Hinuhit",Hinuhit
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan23/live.livx/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Keshet 12",Keshet 12
+#EXTINF:-1 tvg-id="Keshet12.il" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/keshet12.png" group-title="Israel",Keshet 12
 https://keshethlslive-lh.akamaihd.net/i/12live_1@195271/index_1400_av-p.m3u8
 
-#EXTINF:-1 tvg-name="Channel 9",Channel 9
+#EXTINF:-1 tvg-id="Reshet13.il" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/reshet13.png" group-title="Israel",Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+#EXTINF:-1 tvg-id="KanKids.il" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kankids.png" group-title="Israel",Hinuhit
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan23/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.il" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/channel9.png" group-title="Israel",Channel 9
 http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 
-#EXTINF:-1 tvg-name="Relevant TV",Relevant TV
+#EXTINF:-1 tvg-id="RelevantTV.il" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/relevanttv.png" group-title="Israel",Relevant TV
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
